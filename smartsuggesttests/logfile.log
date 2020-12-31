@@ -1,0 +1,89 @@
+2020-09-01 02:28:06,401 :INFO : test_createaccount :First Name is Shaik
+2020-09-01 02:28:07,680 :INFO : test_createaccount :Email used to create account is rasheedss@searchblox.com
+2020-09-01 02:30:22,813 :INFO : test_createaccount :First Name is Shaik
+2020-09-01 02:30:24,014 :INFO : test_createaccount :Email used to create account is rasheedss@searchblox.com
+2020-09-01 02:33:04,378 :INFO : test_createaccountss :First Name is Shaik
+2020-09-01 02:33:05,507 :INFO : test_createaccountss :Email used to create account is rasheedss@searchblox.com
+2020-09-01 02:37:44,587 :INFO : test_createaccountss :First Name is Shaik
+2020-09-01 02:37:45,748 :INFO : test_createaccountss :Email used to create account is rasheedss@searchblox.com
+2020-09-01 05:03:16,217 :INFO : test_createaccountss :First Name is Shaik
+2020-09-01 05:03:17,692 :INFO : test_createaccountss :Email used to create account is rasheedss@searchblox.com
+2020-09-01 05:16:58,553 :INFO : test_createaccountss :First Name is Shaik
+2020-09-01 05:16:59,763 :INFO : test_createaccountss :Email used to create account is rasheeds@searchblox.com
+2020-09-01 05:23:51,683 :INFO : test_createaccountss :First Name is Shaik
+2020-09-01 05:23:53,020 :INFO : test_createaccountss :Email used to create account is srasheed@searchblox.com
+2020-09-01 06:15:09,718 :INFO : test_editprediction :eidt button has been clicked
+2020-09-01 06:15:09,770 :INFO : test_editprediction :rooturl cleared
+2020-09-01 06:17:03,376 :INFO : test_editprediction :eidt button has been clicked
+2020-09-01 06:17:23,778 :INFO : test_editprediction :rooturl cleared
+2020-09-01 06:19:25,059 :INFO : test_editprediction :eidt button has been clicked
+2020-09-01 06:20:07,898 :INFO : test_editprediction :rooturl cleared
+2020-09-01 06:20:56,337 :INFO : test_editprediction :eidt button has been clicked
+2020-09-01 06:20:56,380 :INFO : test_editprediction :rooturl cleared
+2020-09-01 06:22:59,330 :INFO : test_editprediction :eidt button has been clicked
+2020-09-01 06:22:59,399 :INFO : test_editprediction :rooturl cleared
+2020-09-01 06:24:55,597 :INFO : test_editprediction :eidt button has been clicked
+2020-09-01 06:24:55,641 :INFO : test_editprediction :rooturl cleared
+2020-09-06 05:52:19,284 :INFO : test_createaccountss :First Name is Shaik
+2020-09-06 05:52:20,448 :INFO : test_createaccountss :Email used to create account is srasheed@searchblox.com
+2020-09-06 05:53:14,458 :INFO : test_editprediction :eidt button has been clicked
+2020-09-06 05:53:14,502 :INFO : test_editprediction :rooturl cleared
+2020-09-06 06:14:08,706 :INFO : test_frenchprediction :User Logged in successfully
+2020-09-06 06:14:10,789 :INFO : test_frenchprediction :Clicked on Edit Button
+2020-09-06 06:14:10,836 :INFO : test_frenchprediction :Cleared URL
+2020-09-06 06:14:11,152 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:15:52,338 :INFO : test_frenchprediction :User Logged in successfully
+2020-09-06 06:15:54,287 :INFO : test_frenchprediction :Clicked on Edit Button
+2020-09-06 06:15:54,332 :INFO : test_frenchprediction :Cleared URL
+2020-09-06 06:15:54,650 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:17:17,321 :INFO : test_frenchprediction :User Logged in successfully
+2020-09-06 06:17:25,437 :INFO : test_frenchprediction :Clicked on Edit Button
+2020-09-06 06:17:35,866 :INFO : test_frenchprediction :Cleared URL
+2020-09-06 06:19:18,736 :INFO : test_frenchprediction :User Logged in successfully
+2020-09-06 06:19:21,008 :INFO : test_frenchprediction :Clicked on Edit Button
+2020-09-06 06:19:21,053 :INFO : test_frenchprediction :Cleared URL
+2020-09-06 06:19:21,376 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:32:42,857 :INFO : test_frenchprediction :User Logged in successfully
+2020-09-06 06:32:44,898 :INFO : test_frenchprediction :Clicked on Edit Button
+2020-09-06 06:32:44,944 :INFO : test_frenchprediction :Cleared URL
+2020-09-06 06:33:59,415 :INFO : test_frenchprediction :User Logged in successfully
+2020-09-06 06:34:01,393 :INFO : test_frenchprediction :Clicked on Edit Button
+2020-09-06 06:34:01,437 :INFO : test_frenchprediction :Cleared URL
+2020-09-06 06:34:05,759 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:34:38,354 :INFO : test_frenchprediction :User Logged in successfully
+2020-09-06 06:34:40,295 :INFO : test_frenchprediction :Clicked on Edit Button
+2020-09-06 06:34:40,339 :INFO : test_frenchprediction :Cleared URL
+2020-09-06 06:34:40,679 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:35:24,387 :INFO : test_frenchprediction :User Logged in successfully
+2020-09-06 06:35:26,745 :INFO : test_frenchprediction :Clicked on Edit Button
+2020-09-06 06:35:26,791 :INFO : test_frenchprediction :Cleared URL
+2020-09-06 06:35:27,112 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:37:59,934 :INFO : test_editprediction :eidt button has been clicked
+2020-09-06 06:37:59,978 :INFO : test_editprediction :rooturl cleared
+2020-09-06 06:40:17,886 :INFO : test_frenchprediction :eidt button has been clicked
+2020-09-06 06:40:17,932 :INFO : test_frenchprediction :rooturl cleared
+2020-09-06 06:40:18,248 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:41:47,180 :INFO : test_frenchprediction :eidt button has been clicked
+2020-09-06 06:41:47,224 :INFO : test_frenchprediction :rooturl cleared
+2020-09-06 06:41:47,537 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:42:25,436 :INFO : test_editprediction :eidt button has been clicked
+2020-09-06 06:42:25,482 :INFO : test_editprediction :rooturl cleared
+2020-09-06 06:44:59,882 :INFO : test_frenchprediction :eidt button has been clicked
+2020-09-06 06:44:59,927 :INFO : test_frenchprediction :rooturl cleared
+2020-09-06 06:45:00,096 :INFO : test_frenchprediction :Entered URL
+2020-09-06 06:52:13,313 :INFO : test_Russiaprediction :eidt button has been clicked
+2020-09-06 06:52:13,373 :INFO : test_Russiaprediction :rooturl cleared
+2020-09-06 06:52:53,233 :INFO : test_Russiaprediction :eidt button has been clicked
+2020-09-06 06:52:53,281 :INFO : test_Russiaprediction :rooturl cleared
+2020-09-06 17:06:32,835 :INFO : test_createaccountss :First Name is Shaik
+2020-09-06 17:06:34,143 :INFO : test_createaccountss :Email used to create account is Rasheed21@searchblox.com
+2020-09-06 17:09:08,738 :INFO : test_editprediction :eidt button has been clicked
+2020-09-06 17:09:08,782 :INFO : test_editprediction :rooturl cleared
+2020-09-06 17:24:37,073 :INFO : test_createaccountss :First Name is Shaik
+2020-09-06 17:24:38,271 :INFO : test_createaccountss :Email used to create account is Rasheed212@searchblox.com
+2020-09-06 17:27:10,742 :INFO : test_editprediction :eidt button has been clicked
+2020-09-06 17:27:10,787 :INFO : test_editprediction :rooturl cleared
+2020-09-06 17:31:58,628 :INFO : test_createaccountss :First Name is Shaik
+2020-09-06 17:31:59,810 :INFO : test_createaccountss :Email used to create account is Rasheed213@searchblox.com
+2020-09-06 17:34:19,206 :INFO : test_editprediction :eidt button has been clicked
+2020-09-06 17:34:19,255 :INFO : test_editprediction :rooturl cleared
